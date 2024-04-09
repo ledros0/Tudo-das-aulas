@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+    border: 1px solid rgba(90, 209, 90, 0.671);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
