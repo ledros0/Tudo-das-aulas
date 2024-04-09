@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+    color: black;
+    margin-left:  700px;
+}   
+h1 { 
+    font-style: italic;
+    font-size: 45px;
+}
+
+li {
+    font-size: 30px;
+}
